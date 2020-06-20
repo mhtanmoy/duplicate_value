@@ -1,4 +1,11 @@
 my_list = ['a','b','c','c','a','b','e','a',1,2,2,4]
+# try: 
+#     my_list = [] 
+      
+#     while True: 
+#         my_list.append(int(input()))  #enter 'stop' to end input section
+# except: 
+#     print('Your entered list ', my_list)
 
 dubli_dict = dict()
 dubli = []
